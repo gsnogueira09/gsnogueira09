@@ -6,4 +6,4 @@ Analytical skills comprise Exploratory Analyses and Data Visualization. Currentl
 
 Seeking opportunities that allow me to develop even more my analytic skills, stimulate my personal development and allow me to share knowledge and experiences.
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/guilherme-nogueira-583940123/)
