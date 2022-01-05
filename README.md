@@ -6,4 +6,4 @@ Analytical skills comprise Exploratory Analyses and Data Visualization. Currentl
 
 Seeking opportunities that allow me to develop even more my analytic skills, stimulate my personal development and allow me to share knowledge and experiences.
 
-<img src="/Downloads/logo_port.png">
+
