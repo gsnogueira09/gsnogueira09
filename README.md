@@ -4,9 +4,7 @@ Biólogo, Mestre em Ecologia, que descobriu a área de Ciência de Dados e desco
 
 Com experiência em Análise de Dados, especialmente em estatística descritiva e inferencial, como Chi-quadrado, Teste-T, ANOVA, correlação, regressão e Estatística Circular.
 
-Entre as habilidades analíticas, estão a Análise Exploratória e a Visualização de Dados. Atualmente, estudando Aprendizado de Máquina, principalmente em Python.
-
-Buscando oportunidades que permitam o desenvolvimento ainda maior das minhas habilidades analíticas, estimulando meu desenvolvimento pessoal e o compartilhamento de conhecimento e experiências.
+Entre as habilidades analíticas, estão a Análise Exploratória e a Visualização de Dados. Atualmente, estudando Tableau e suas funcionalidades.
 
 
 (ENG)
@@ -15,9 +13,8 @@ Biologist, Master in Ecology, that discovered the Data Science area and found wh
 
 Experienced in Data Analyses, specially on descriptive and inferential statistics, as Chi-square test, T-test, ANOVA, correlation, regression and Circular Statistics.
 
-Analytical skills comprise Exploratory Analyses and Data Visualization. Currently, studying Machine Learning, mainly on Python.
+Analytical skills comprise Exploratory Analyses and Data Visualization. Currently, studying Tableau and its settings.
 
-Seeking opportunities that allow me to develop even more my analytic skills, stimulate my personal development and allow me to share knowledge and experiences.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/guilherme-nogueira-583940123/)
 
