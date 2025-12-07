@@ -1,19 +1,23 @@
 (POR)
 
-Biólogo, Mestre em Ecologia, que descobriu a área de Ciência de Dados e descobriu o que poderia ser fantástico de fazer: usar dados para responder questões de negócio.
+Analista de Dados com experiência em Planejamento Estratégico e Business Intelligence, atuando na modelagem e análise de dados para suporte à tomada de decisão.
 
-Com experiência em Análise de Dados, especialmente em estatística descritiva e inferencial, como Chi-quadrado, Teste-T, ANOVA, correlação, regressão e Estatística Circular.
+Especialista em Power BI, domínio de SQL e Excel, conhecimento intermediário em Python e R e básico em Tableau.
 
-Entre as habilidades analíticas, estão a Análise Exploratória e a Visualização de Dados. Atualmente, estudando Tableau e suas funcionalidades.
+Foco em desenvolvimento de dashboards, padronização de indicadores e storytelling com dados, traduzindo métricas em insights estratégicos para diferentes áreas do negócio.
+
+Perfil analítico e colaborativo, com experiência em ambientes corporativos dinâmicos e equipes multidisciplinares.
 
 
 (ENG)
 
-Biologist, Master in Ecology, that discovered the Data Science area and found what would be stunning to do: using data to answer business questions.
+Data Analyst with strong experience in Business Intelligence, data analysis, and KPI tracking.
 
-Experienced in Data Analyses, specially on descriptive and inferential statistics, as Chi-square test, T-test, ANOVA, correlation, regression and Circular Statistics.
+Proven expertise in developing interactive dashboards and reports in Power BI, with solid skills in SQL and Excel, working knowledge of Python and R and basic skills on Tableau. 
 
-Analytical skills comprise Exploratory Analyses and Data Visualization. Currently, studying Tableau and its settings.
+Experienced in data modeling, structuring, and storytelling, turning metrics into strategic insights that drive decision-making across business areas.
+
+Recognized for an analytical and results-driven mindset, clear communication, and effective collaboration in cross-functional corporate environments.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/guilherme-nogueira-583940123/)
@@ -27,4 +31,8 @@ Analytical skills comprise Exploratory Analyses and Data Visualization. Currentl
  #### Domínio intermediário/Intermediate skills:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+  
+ #### Domínio básico/Basic skills:
+ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
